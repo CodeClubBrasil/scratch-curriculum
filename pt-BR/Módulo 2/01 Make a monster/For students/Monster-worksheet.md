@@ -5,17 +5,18 @@ Nível 4
 __Introdução:__
 Neste projeto você ira criar seu próprio monstro, desde o desenho até a sua animação, vamos dividir este processo de criação em poucos passos. É necessário planejar como o monstro irá parecer, como ele vai se mover, onde ele vive e se ele produz sons.
 
-##STEP 1: Designing your monster
+##1º Passo: Desenhar seu monstro
 What does your monster look like? First, try sketching out some monster designs on some blank paper.
+Como será o visual do monstro? Primeiro, rabisque alguns desenhos de monstros em uma folha de papel. 
 
-Think about what limbs it will have, how it will move? What sounds does it make? Can it talk?
-What kind of environment does it live in?
 
-To give you some ideas, read through step 5. Animating your Monster.
+Pense nas partes que seu monstro terá, como pernas, braços, olhos e etc. Como ele irá mover-se? Quais sons produzirá? Em que ambiente ele vive?
 
-This should take you a whole club session so no need to rush. Ask for more blank paper if you need it!
+Para ajudar  a ter ideias, leia o 5 º passo, Animando seu Monstro 
 
-##STEP 2: Splitting your monster up into parts
+Você tem toda uma sessão para criar seu desenho, então não tenha pressa. Solicite por mais papel caso seja necessário.
+ 
+##2º Passo: Splitting your monster up into parts
 When you’re happy with the design, split your monster up into what will be individual sprites, such as arms, legs, head etc. Having your monster made up of separate sprites will give you better control over animation, and allow it to do several things at once.
 Draw the parts on a piece of paper and label them.
 
