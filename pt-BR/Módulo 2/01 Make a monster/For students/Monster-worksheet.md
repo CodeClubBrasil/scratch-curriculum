@@ -1,9 +1,9 @@
-Level 4
+Nível 4
 
-#Design & animate your own monster
+#Projeto criativo , crie o desenho e anime o seu próprio monstro
 
-__Introduction:__
-In this project you will design and animate your very own monster! There are a few steps before your monster is finished though. You’ll need to plan what your monster looks like, how they move, where they live and if they make any sounds.
+__Introdução:__
+Neste projeto você ira criar seu próprio monstro, desde o desenho até a sua animação, vamos dividir este processo de criação em poucos passos. É necessário planejar como o monstro irá parecer, como ele vai se mover, onde ele vive e se ele produz sons.
 
 ##STEP 1: Designing your monster
 What does your monster look like? First, try sketching out some monster designs on some blank paper.
