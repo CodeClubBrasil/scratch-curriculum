@@ -26,7 +26,7 @@ Agora que você tem os desenhos do monstro e de suas partes é a hora de digital
 
 
 Quando você importar os desenhos para dentro do Scratch , edite-os e coloque o ponto central na junção que fará com o outro desenho.
-Por exemplo: Para um braço que será unido a um corpo, coloque o ponto central na sua extremidade que se juntará ao corpo . Para um objeto circular o ponto central deve coincidir com o seu centro.
+Por exemplo: Para um braço que será unido a um corpo, coloque o ponto central na sua extremidade que se juntará ao corpo, isto fará o ponto de rotação do braço esteja junto ao ombro . Para um objeto circular o ponto central deve coincidir com o seu centro.
 
 
 
@@ -39,7 +39,7 @@ O líder do seu Clube disponibilizará um conjunto de cartões para ajudar nesta
 O que terão neste cartões:
 
 * Pernas
-* Jointed arm Wheels
+* Braços articulados
 * Tentáculos
 * Olhos
 * Boca e movimento da boca ao falar
