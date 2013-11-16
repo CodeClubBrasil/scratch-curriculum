@@ -1,6 +1,6 @@
 Nível 4
 
-#Projeto criativo , crie o desenho e anime o seu próprio monstro
+#Projeto criativo , desenhe e anime o seu próprio monstro
 
 __Introdução:__
 Neste projeto você irá criar seu próprio monstro, desde o desenho até a sua animação, vamos dividir este processo de criação em poucos passos. É necessário planejar como será a aparência do monstro, como vai se mover, onde vive e se produz sons.
