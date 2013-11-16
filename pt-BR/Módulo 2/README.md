@@ -1,11 +1,11 @@
-#Olá e bem vindo ao módulo dois do Code Club!
+#Hello and welcome to term two of Code Club! 
 
-##Novo modelo
-O módulo dois usa o Scratch novamente, mas desta vez é muito mais difícil. O foco deste módulo é que os alunos desenvolvam novas habilidades de codificação para criar seus próprios projetos.
+##New model
+Term two uses Scratch again but this time it's much harder. The focus this term is on the students using new found coding skills to create their own projects. 
 
-Então por exemplo, o primeiro projeto é "Criar e animar seu monstro". Nós oferecemos partes individuais de um mesmo código (nos cartões Scratch) mas os alunos devem juntar tudo e serem realmente criativos. Os líderes de clube possuirão uma planilha por aluno acompanhar cada projeto.
+So for example the first project is a 'Design and animate your own monster project'. We provide the individual parts and some code (on Scratch cards) but it's up to the students to put all this together and be really creative. There is a worksheet for the students follow and notes for you the club leader for each project.
 
-##Prazos
-Haverão três projetos neste módulo e cada projeto deve durar por volta de 3 a 4 semanas para ser concluído, mas você irá precisar trabalhar no rítmo do seu club. Não precisa se apressar.
+##Timeframes
+There are three projects this term and each project should take about 3-4 weeks to complete but you'll need to work at the pace your club goes at. Don't rush them.
 
-__Boa Sorte!__
+__Good luck!__
