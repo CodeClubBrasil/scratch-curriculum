@@ -45,18 +45,13 @@ No Scratch nós também temos um __palco__.
 E podemos escolher diferentes __panos de fundo__ .
 
 
-<img width="32%" src="img/pano_de_fundo_1.png">
-</img>
-<img width="32%" src="img/pano_de_fundo_2.png">
-</img>
-<img width="32%" src="img/pano_de_fundo_3.png">
-</img>
+<img width="32%" src="img/pano_de_fundo_1.png"/>
+<img width="32%" src="img/pano_de_fundo_2.png"/>
+<img width="32%" src="img/pano_de_fundo_3.png"/>
 Podemos inserir __atores__, e escolher diferentes __fantasias__.
 
-<img width="49%" src="img/actor.png">
-</img>
-<img width="49%" src="img/fantasia.png">
-</img>
+<img width="49%" src="img/actor.png"/>
+<img width="49%" src="img/fantasia.png"/>
 
 <div class="page_break">
 </div>
